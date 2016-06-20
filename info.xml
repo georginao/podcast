@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+<item>
+<title> Title of your site </title>
+<description> A description of your podcast show </description>
+<author>Your Name </author>
+<link> http://www.yourserver.com/YourPodcastHomepage/ </link>
+<pubDate> Sun, 09 Oct 2005 21:00:00 PST </pubDate>
+<enclosure url="http://www.yourserver.com/podcast_file.mp3" length="3174554" type="audio/mpeg" />
+</item>
+</list>
