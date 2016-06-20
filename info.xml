@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<list>
-<item>
-<title> Title of your site </title>
-<description> A description of your podcast show </description>
-<author>Your Name </author>
-<link> http://www.yourserver.com/YourPodcastHomepage/ </link>
-<pubDate> Sun, 09 Oct 2005 21:00:00 PST </pubDate>
-<enclosure url="http://www.yourserver.com/podcast_file.mp3" length="3174554" type="audio/mpeg" />
-</item>
-</list>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Podcast Ejemplo</title>
+  <link></link>
+  <description>Ejemplo Podcast HTML5</description>
+  <item>
+    <title>Audios</title>
+    <link></link>
+    <description>Ejemplo Audio Tag HTML5</description>
+    <enclosure url="http://media.blubrry.com/skeptiko/content.blubrry.com/skeptiko/skeptiko-319-Piero-Calvi-Parisetti.mp3"
+    length="78645" type="audio/mpeg" />
+  </item>
+</channel>
+</rss>
