@@ -1,6 +1,9 @@
   body {
     padding: 5%;
   }
+  .podcast-player{
+    background-color: #cccccc;
+  }
   .podcast-player-player-controls {
     box-sizing: border-box;
     background: #000;
